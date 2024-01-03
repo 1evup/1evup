@@ -4,7 +4,8 @@
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1evup&show_icons=true&theme=blue_navy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1evup&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1evup&show_icons=true&theme=blue_navy) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1evup&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
 **1evup/1evup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
